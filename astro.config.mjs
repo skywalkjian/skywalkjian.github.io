@@ -29,8 +29,8 @@ import config from './src/site.config.ts'
 // https://astro.build/config
 export default defineConfig({
   // Top-Level Options
-  site: 'https://astro-pure.js.org',
-  // base: '/docs',
+  site: 'https://skywalkjian.github.io',
+  base: '/',
   trailingSlash: 'never',
 
   // Adapter
